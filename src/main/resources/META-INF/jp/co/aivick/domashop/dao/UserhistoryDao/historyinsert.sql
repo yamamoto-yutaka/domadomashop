@@ -1,1 +1,0 @@
-insert into userhistory ('name', 'number','username') values ('name', 'number','username');
