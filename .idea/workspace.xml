@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dfde2145-006c-4999-bee5-d82744ad2129" name="Default Changelist" comment="squash! first" />
+    <list default="true" id="dfde2145-006c-4999-bee5-d82744ad2129" name="Default Changelist" comment="squash! first">
+      <change beforePath="$PROJECT_DIR$/src/main/java/jp/co/aivick/domashop/View.java" beforeDir="false" />
+    </list>
+    <list id="92b934b3-c5aa-4a00-b6ac-36acdff871b7" name="Revert &quot;first&quot;" comment="first">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="true" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="true" />
@@ -76,7 +81,7 @@
       <updated>1584325161137</updated>
       <workItem from="1584325166639" duration="2371000" />
       <workItem from="1584328531499" duration="988000" />
-      <workItem from="1584330458333" duration="12269000" />
+      <workItem from="1584330458333" duration="13447000" />
     </task>
     <servers />
   </component>
