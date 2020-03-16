@@ -1,0 +1,1 @@
+insert into menu ('name', 'kind','price','recipename') values ('name', 'kind','price','recipename');

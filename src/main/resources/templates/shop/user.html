@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="jp" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <link href="/static/css/stylesheet.css" th:href="@{/css/stylesheet.css}" rel="stylesheet"></link>
+    <script src="/js/javasprict.js" th:src="@{/js/javasprict.js}"></script>
+</head>
+<body>
+<header>
+    <a class="top" href = "/">TOP</a>
+    <a class="login">ログイン</a>
+</header>
+<form action="/user" method="post">
+    ユーザー
+    <br>
+    <input type="text" name="money" value="" placeholder="追加金額">
+    <br>
+    <button type="submit">追加</button>
+</form>
+<br>
+<biv th:text="${usermassege}" 　class="error"></biv>
+<br>
+<p th:text="${moneys}"></p>
+<br>
+<tr th:each="history:${userhistorys}">
+    <tb th:text="${history.name}"></tb>
+    <tb th:text="${history.number}"></tb>
+</tr>
+<br>
+<p th:text="${historymoney}"></p>
+
+</body>
+</html>
