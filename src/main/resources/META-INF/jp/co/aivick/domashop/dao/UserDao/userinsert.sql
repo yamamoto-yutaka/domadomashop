@@ -1,0 +1,1 @@
+insert into user ('name', 'money',) values ('name', 'money',);

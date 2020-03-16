@@ -1,0 +1,62 @@
+*{
+    font-family: "Noto Sans JP";
+    margin: 0px;
+    padding: 0px;
+}
+.topitem {
+    text-align:center;
+    margin: 100px;
+}
+div.topitem a{
+    padding: 15px;
+    font-size: 14px;
+    display:inline-block;
+    text-align: center;
+    margin: 10px;
+    width: 200px;
+    height: 20px;
+    color: #fff;
+    background-color: #069;
+    text-decoration:none;
+    border-radius: 3px;
+    font-weight: bold;
+}
+div.topitem a:hover{
+    opacity: 0.7;
+}
+.login:hover{
+    opacity: 0.7;
+}
+.top:hover{
+    opacity: 0.7;
+}
+
+.login{
+   float: right;
+    font-size: 14px;
+    background-color: darkgrey;
+    width: 100px;
+    color: white;
+    height: 40px;
+    line-height:40px;
+}
+.top{
+    float: left;
+    font-size: 14px;
+    background-color: darkgrey;
+    width: 100px;
+    color: white;
+    height: 40px;
+    line-height:40px;
+    text-decoration:none;
+}
+header{
+    text-align:center;
+    background-color: black;
+    height: 40px;
+    width: 100%;
+}
+
+.error{
+    color: red;
+}

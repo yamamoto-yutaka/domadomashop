@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="jp" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <link href="/static/css/stylesheet.css" th:href="@{/css/stylesheet.css}" rel="stylesheet"></link>
+    <script src="/js/javasprict.js" th:src="@{/js/javasprict.js}"></script>
+</head>
+<body>
+<header>
+    <a class="top" href = "/">TOP</a>
+    <a class="login">ログイン</a>
+</header>
+<form action="/recipe" method="post">
+    <div>
+    <p>レシピ登録</p>
+    <br>
+    <input type="text" name="recipename" value="" placeholder="レシピ名">
+    <br>
+    <input type="text" name="recipecalorie" 　value="" placeholder="カロリー">
+    <br>
+    <button type="submit">登録</button>
+    </div>
+</form>
+<div>
+    <biv th:text="${recipemassege}" 　class="error"></biv>
+    <br>
+    <table>
+        <tr th:each="result:${results}">
+            <tb th:text="${result.name}"></tb>
+            <br>
+        </tr>
+    </table>
+</div>
+</body>
+</html>

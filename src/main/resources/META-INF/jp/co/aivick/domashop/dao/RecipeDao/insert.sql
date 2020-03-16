@@ -1,0 +1,1 @@
+insert into recipe ('name', 'cal') values ('name', 'cal');

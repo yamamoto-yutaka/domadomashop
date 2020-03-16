@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfde2145-006c-4999-bee5-d82744ad2129" name="Default Changelist" comment="squash! first" />
+    <option name="SHOW_DIALOG" value="true" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="true" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature-A" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZBvAq6Mn5jKHDL6Xc91ShxdFxZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="ToolWindow構造.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfde2145-006c-4999-bee5-d82744ad2129" name="Default Changelist" comment="" />
+      <created>1584325161137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584325161137</updated>
+      <workItem from="1584325166639" duration="2371000" />
+      <workItem from="1584328531499" duration="988000" />
+      <workItem from="1584330458333" duration="12269000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myShow1" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="true" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="true" />
+    <confirmMoveToFailedCommit value="2" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="290" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="340" y="82" key="#Notifications" timestamp="1584343159485">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="340" y="82" key="#Notifications/0.23.1440.824@0.23.1440.824" timestamp="1584343159484" />
+    <state x="340" y="82" key="#TODO" timestamp="1584342692074">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="340" y="82" key="#TODO/0.23.1440.824@0.23.1440.824" timestamp="1584342692074" />
+    <state x="204" y="78" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584342721600">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="204" y="78" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.824@0.23.1440.824" timestamp="1584342721600" />
+    <state x="456" y="225" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584336488211">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="456" y="225" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.824@0.23.1440.824" timestamp="1584336488211" />
+    <state x="340" y="82" key="#更新" timestamp="1584330667445">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="340" y="82" key="#更新/0.23.1440.824@0.23.1440.824" timestamp="1584330667445" />
+    <state x="319" y="23" width="842" height="785" key="CommitChangelistDialog2" timestamp="1584344164566">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="319" y="23" width="842" height="785" key="CommitChangelistDialog2/0.23.1440.824@0.23.1440.824" timestamp="1584344164566" />
+    <state x="140" y="123" width="1200" height="584" key="DiffContextDialog" timestamp="1584343733526">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="140" y="123" width="1200" height="584" key="DiffContextDialog/0.23.1440.824@0.23.1440.824" timestamp="1584343733526" />
+    <state x="227" y="23" width="1024" height="824" key="SettingsEditor" timestamp="1584342968530">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="227" y="23" width="1024" height="824" key="SettingsEditor/0.23.1440.824@0.23.1440.824" timestamp="1584342968530" />
+    <state x="577" y="337" key="VCS.ChangelistChooser" timestamp="1584339246397">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="577" y="337" key="VCS.ChangelistChooser/0.23.1440.824@0.23.1440.824" timestamp="1584339246397" />
+    <state x="340" y="156" key="Vcs.Push.Dialog.v2" timestamp="1584344137037">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="340" y="156" key="Vcs.Push.Dialog.v2/0.23.1440.824@0.23.1440.824" timestamp="1584344137037" />
+    <state x="521" y="157" key="VcsDiffUtil.ChangesDialog" timestamp="1584335746829">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="521" y="157" key="VcsDiffUtil.ChangesDialog/0.23.1440.824@0.23.1440.824" timestamp="1584335746829" />
+    <state x="410" y="249" key="com.intellij.ide.util.TipDialog" timestamp="1584330458313">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="410" y="249" key="com.intellij.ide.util.TipDialog/0.23.1440.824@0.23.1440.824" timestamp="1584330458313" />
+    <state x="539" y="339" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584344150406">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="539" y="339" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.824@0.23.1440.824" timestamp="1584344150406" />
+    <state x="505" y="322" key="git4idea.ui.GitResetDialog" timestamp="1584344194427">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="505" y="322" key="git4idea.ui.GitResetDialog/0.23.1440.824@0.23.1440.824" timestamp="1584344194426" />
+    <state x="511" y="325" key="git4idea.ui.GitStashDialog" timestamp="1584343432043">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="511" y="325" key="git4idea.ui.GitStashDialog/0.23.1440.824@0.23.1440.824" timestamp="1584343432043" />
+    <state x="404" y="187" key="run.anything.popup" timestamp="1584342889871">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="404" y="187" key="run.anything.popup/0.23.1440.824@0.23.1440.824" timestamp="1584342889871" />
+    <state x="340" y="82" key="scopes" timestamp="1584341247347">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="340" y="82" key="scopes/0.23.1440.824@0.23.1440.824" timestamp="1584341247347" />
+    <state x="405" y="171" width="670" height="676" key="search.everywhere.popup" timestamp="1584343028496">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="405" y="171" width="670" height="676" key="search.everywhere.popup/0.23.1440.824@0.23.1440.824" timestamp="1584343028496" />
+  </component>
+</project>

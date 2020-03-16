@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="jp" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <link href="/static/css/stylesheet.css" th:href="@{/css/stylesheet.css}" rel="stylesheet"></link>
+    <script src="/js/javasprict.js" th:src="@{/js/javasprict.js}"></script>
+</head>
+<body>
+<header>
+    <a class="top" href = "/">TOP</a>
+    <a class="login">ログイン</a>
+</header>
+<!--<table>-->
+<!--    <tr th:each="menu:${menuresults}">-->
+<!--        <tb th:text="${menu.name}"></tb>-->
+<!--    </tr>-->
+<!--</table>-->
+<form action="/stock" method="post">
+    在庫管理
+    <br>
+    <tr th:each="menu:${menuresults}">
+        <input type="checkbox" class="stockcheck" name="name" th:value="${menu.name}"><label th:text="${menu.name}"></label>
+        <br>
+    </tr>
+    <br>
+    <input type="radio" name="adjustment" value="add"><label>追加</label>
+    <input type="radio" name="adjustment" value="sub"><label>削除</label>
+    <br>
+    <input type="text" name="stock" value="" placeholder = "在庫数">
+    <br>
+    <button type="submit">登録</button>
+</form>
+<br>
+<biv th:text="${stockmessage}" 　class="error"></biv>
+<br>
+<tr th:each="list:${stocklist}">
+    <tb th:text="${list.name}"></tb>
+    <tb th:text="${list.ivn}"></tb>
+    <br>
+</tr>
+</body>
+</html>

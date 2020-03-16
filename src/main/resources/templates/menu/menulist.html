@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="jp" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <link href="/static/css/stylesheet.css" th:href="@{/css/stylesheet.css}" rel="stylesheet"></link>
+    <script src="/js/javasprict.js" th:src="@{/js/javasprict.js}"></script>
+</head>
+<body>
+<header>
+    <a class="top" href = "/">TOP</a>
+    <a class="login">ログイン</a>
+</header>
+<table>
+    <tr th:each="menu:${menuresults}">
+        <tb th:text="${menu.name}"></tb>
+        <tb th:text="${menu.kind}"></tb>
+        <tb th:text="${menu.price}"></tb>
+        <span th:each="name : ${menu.recipename}" >
+        <tb th:text="${name}"></tb>
+        </span>
+        <br>
+    </tr>
+</table>
+
+</body>
+</html>
